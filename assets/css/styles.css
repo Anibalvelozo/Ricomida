@@ -1,0 +1,45 @@
+body * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: #373A3C;
+}
+
+.bg-personalizado {
+    background-color: #373A3C;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 250;
+
+
+}
+
+.title {
+    font-family: 'lobster';
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.nav-list {
+    font-family: 'Cabin', sans-serif;
+    font-weight: 300;
+}
+
+
+.text-p {
+    font-size: 1.8em;
+}
+
+
+
+.newsletter {
+    background-color: #DC3545;
+    color: #fff;
+}
+
+footer {
+    background-color: #373A3C;
+    color: #fff;
+}
